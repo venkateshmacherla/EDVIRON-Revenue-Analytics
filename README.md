@@ -19,15 +19,7 @@ This project contains an interactive Power BI dashboard built for revenue analyt
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/3c821e1b-5536-4d3a-af6a-caaee1dad9ee" 
-alt="Dashboard Visualization 1" 
-width="700"/>
-
-<br/><br/>
-
-<img src="https://github.com/user-attachments/assets/5b668fd7-19ed-4fc5-b5bb-99e8c516b31b" 
-alt="Dashboard Visualization 2" 
-width="700"/>
+<img width="521" height="476" alt="image" src="https://github.com/user-attachments/assets/93a3608b-48b7-4e15-ab15-00db0a2e1aa5" />
 
 </div>
 
